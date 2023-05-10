@@ -1,7 +1,7 @@
 {
-  "name": "@snapshot-labs/snapshot.js",
+  "name": "@halborn/snapshot.js",
   "version": "0.4.82",
-  "repository": "snapshot-labs/snapshot.js",
+  "repository": "fr0zn/snapshot.js",
   "license": "MIT",
   "main": "dist/snapshot.cjs.js",
   "module": "dist/snapshot.esm.js",
