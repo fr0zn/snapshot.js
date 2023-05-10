@@ -1,6 +1,6 @@
 {
   "name": "@halborn/snapshot.js",
-  "version": "0.4.82",
+  "version": "0.1.1",
   "repository": "fr0zn/snapshot.js",
   "license": "MIT",
   "main": "dist/snapshot.cjs.js",
