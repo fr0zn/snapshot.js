@@ -32,6 +32,39 @@
     "start": 7929876,
     "logo": "ipfs://QmR2UYZczmYa4s8mr9HZHci5AQwyAnwUW7tSUZz7KWF3sA"
   },
+  "2": {
+    "key": "2",
+    "name": "Halborn Mainnet",
+    "chainId": 2,
+    "network": "homestead",
+    "multicall": "0xeefba1e63905ef1d7acba5a8513c70307c1ce441",
+    "ensResolver": "0x4976fb03C32e5B8cfe2b6cCB31c09Ba78EBaBa41",
+    "ensNameWrapper": "0xD4416b13d2b3a9aBae7AcD5D6C2BbDBE25686401",
+    "rpc": [
+      "https://rpc.ankr.com/eth",
+      {
+        "url": "https://api-geth-archive.ankr.com",
+        "user": "balancer_user",
+        "password": "balancerAnkr20201015"
+      },
+      "https://speedy-nodes-nyc.moralis.io/b9aed21e7bb7bdeb35972c9a/eth/mainnet/archive",
+      "https://apis.ankr.com/e62bc219f9c9462b8749defe472d2dc5/6106d4a3ec1d1bcc87ec72158f8fd089/eth/archive/main",
+      "https://eth-archival.gateway.pokt.network/v1/5f76124fb90218002e9ce985",
+      "https://eth-mainnet.alchemyapi.io/v2/4bdDVB5QAaorY2UE-GBUbM2yQB3QJqzv"
+    ],
+    "light": [
+      "https://cloudflare-eth.com"
+    ],
+    "ws": [
+      "wss://eth-mainnet.ws.alchemyapi.io/v2/4bdDVB5QAaorY2UE-GBUbM2yQB3QJqzv"
+    ],
+    "explorer": {
+      "url": "https://etherscan.io",
+      "apiUrl": "https://api.etherscan.io"
+    },
+    "start": 7929876,
+    "logo": "ipfs://QmR2UYZczmYa4s8mr9HZHci5AQwyAnwUW7tSUZz7KWF3sA"
+  },
   "5": {
     "key": "5",
     "name": "Ethereum Testnet Görli",
